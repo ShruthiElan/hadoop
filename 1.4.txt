@@ -1,0 +1,10 @@
+1.characteristics of big data
+volume,variety,veracity,velocity,value
+2.solutions to big data
+scaling out, scaling up
+3. scaling up
+increase the configuration of a single system like increasing the no of cores, RAM perfomance,
+ data transfer speed but it is complex,costly and time consuming
+scaling out
+distributing load among multiple machines and it is less economical to use.
+instead of using a single system with large storage we can use muliple systems..
